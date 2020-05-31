@@ -2,7 +2,7 @@
 
 import time, subprocess # Import 'time' and 'subprocess module'
 
-timeLeft = 2
+timeLeft = 5
 while timeLeft > 0:
     print(timeLeft, end=' ')
     time.sleep(1)
